@@ -4,6 +4,7 @@ taught by [Andrew Ng](https://www.andrewng.org/) and offered by [deeplearning.ai
 This repository contains my work on the assignments. The codebase, lecture notes, and citations are from the Deep Learning Specialization on Coursera, unless otherwise noted.
 
 Don't miss Tess Fernandez's vivid [notes](https://www.slideshare.net/TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng) on this course.
+Also Amir Masoud's [notes](https://sefidian.com/2023/03/26/coursera-deep-learning-specialization-notes/).
 
 ## Programming Assignments
 ### [Course 1: Neural Networks and Deep Learning][C1]
@@ -113,3 +114,4 @@ There are no programming assignments for this course.
 [C5W4U1]: https://nbviewer.jupyter.org/github/pabaq/Coursera-Deep-Learning-Specialization/blob/main/C5-Sequence-Models/W4-Transformer-Network/U1/Embedding_plus_Positional_encoding.ipynb
 [C5W4U2]: https://nbviewer.jupyter.org/github/pabaq/Coursera-Deep-Learning-Specialization/blob/main/C5-Sequence-Models/W4-Transformer-Network/U2/Transformer_application_Named_Entity_Recognition.ipynb
 [C5W4U3]: https://nbviewer.jupyter.org/github/pabaq/Coursera-Deep-Learning-Specialization/blob/main/C5-Sequence-Models/W4-Transformer-Network/U3/QA_dataset.ipynb
+
